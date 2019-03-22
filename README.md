@@ -1,7 +1,7 @@
-### trabalhoPesqOper
+# trabalhoPesqOper
 Trabalho de Pesquisa Operacional (Rogerio Coelho)
 
-## Rafael POeys
+# Rafael POeys
 Ciência da Computação
 Faesa, Vitória, ES
 
